@@ -4,26 +4,26 @@
 ! Homepage: https://github.com/githubduckdns1/uBO-filter-list
 ! Version: 2025-09-12
 
-
-!CN
+!CN sites
 *.cn
 *china*.com
-toutiao.com
-qq.com
 *alibaba*.com
-kknews.cc
-read01.com
 *baidu*.com
 *douyin*
+toutiao.com
+qq.com
+kknews.cc
+read01.com
 twincn.com
+aliexpress.com
  
-!pro-CN
+!pro-CN sites
 chinatimes.com
 udn.com
 storm.mg
 tvbs.com
 
 
-!Exceptions
+!Exceptions sites
 @@||nonotmadeinchina.com
 @@||chinanever.com
