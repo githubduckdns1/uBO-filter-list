@@ -1,0 +1,29 @@
+! Title: Custom Filter - avoid Chinese sites
+! Description: avoid common Chinese sites
+! Expires: 7 days
+! Homepage: https://github.com/yourusername/my-ublock-filters
+! Version: 2025-09-12
+
+
+!CN
+*.cn
+*china*.com
+toutiao.com
+qq.com
+*alibaba*.com
+kknews.cc
+read01.com
+*baidu*.com
+*douyin*
+twincn.com
+ 
+!pro-CN
+chinatimes.com
+udn.com
+storm.mg
+tvbs.com
+
+
+!Exceptions
+@@||nonotmadeinchina.com
+@@||chinanever.com
