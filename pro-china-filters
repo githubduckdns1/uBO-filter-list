@@ -1,0 +1,11 @@
+! Title: Custom Filter - avoid Chinese sites
+! Description: avoid common Chinese sites
+! Expires: 7 days
+! Homepage: https://github.com/githubduckdns1/uBO-filter-list
+! Version: 2025-09-12
+ 
+!pro-CN sites
+chinatimes.com
+udn.com
+storm.mg
+tvbs.com
