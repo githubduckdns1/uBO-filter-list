@@ -1,1 +1,8 @@
+! Title: Custom Filter - Potentially dangrous sites
+! Description: block potentially dangrous sites
+! Expires: 7 days
+! Homepage: https://github.com/githubduckdns1/uBO-filter-list
+! Version: 2025-10-21
+
+! Suspicious
 https://www.mycrazyemail.net/
